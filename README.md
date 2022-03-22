@@ -16,4 +16,4 @@ If you have the git bash installed you can do: `git clone https://github.com/mic
 If you dont have that installed, you can just download this repo as a .zip folder (or install git bash and run the command, up to you).
 
 
-Huge majority of the wallpapers here I got from the r/unixporn discord server.
+Huge majority of the wallpapers here I got from the r/unixporn discord server: https://discord.gg/TnJ4h5K
