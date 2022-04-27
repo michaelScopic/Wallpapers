@@ -11,7 +11,7 @@ If you dont have `git` you can either just download this repo as a .zip folder, 
 
 Windows:
 
-If you have the git bash installed you can do: `git clone https://github.com/michaelScopic/Wallpapers.git` 
+If you have git bash installed you can do: `git clone https://github.com/michaelScopic/Wallpapers.git` 
 
 If you dont have that installed, you can just download this repo as a .zip folder (or install git bash and run the command, up to you).
 
