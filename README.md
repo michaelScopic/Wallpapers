@@ -3,15 +3,22 @@ These are all the wallpapers I have collected. Dont ask why I have so many anime
 
 # Installation
 
-Linux:
+### Linux:
 
-If you have `git` installed, you can go into a terminal and do: `git clone https://github.com/michaelScopic/Wallpapers.git`
+If you have `git` installed, you can go into a terminal and run: 
 
-If you dont have `git` you can either just download this repo as a .zip folder, or install `git` from your distro's package manager (eg: apt, dnf, pacman, yum, zypper, xpbs, and so on), and then do the command above.
+```sh
+git clone https://github.com/michaelScopic/Wallpapers.git
+```
 
-Windows:
+If you dont have `git` you can either just download this repo as a .zip folder, or install `git` from your distro's package manager (eg: `apt-get`, `yum`, `pacman`, `zypper`, etc.), and then run the command above.
 
-If you have the git bash installed you can do: `git clone https://github.com/michaelScopic/Wallpapers.git` 
+### Windows:
+
+If you have [git bash](https://gitforwindows.org/) installed you can run: 
+```cmd
+git clone https://github.com/michaelScopic/Wallpapers.git
+```
 
 If you dont have that installed, you can just download this repo as a .zip folder (or install git bash and run the command, up to you).
 
