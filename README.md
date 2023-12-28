@@ -6,7 +6,7 @@ I try to keep this repo up to date.
 
 ## Notes
 
-This repository is _kinda_ big at around >1.3 GBs. (checked at May 29, 2023)
+This repository is _kinda_ big at around >1.39 GBs. (checked at Dec 28, 2023)
 
 If you clone this repo with bad WiFi, start praying to god if there is one.
 
