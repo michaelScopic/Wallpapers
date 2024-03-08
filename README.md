@@ -12,8 +12,9 @@ If you clone this repo with bad WiFi, start praying to god if there is one.
 
 ## Installation
 
+If you have `git` installed, just run this command to clone this repo to your pictures directory:
 ```sh
-git clone https://github.com/michaelScopic/Wallpapers.git
+git clone https://github.com/michaelScopic/Wallpapers.git ~/Pictures
 ```
 
 Alternatively, you can [download this repository as a `.zip` file](https://github.com/michaelScopic/Wallpapers/archive/refs/heads/main.zip) and then extract it.
