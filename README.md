@@ -6,9 +6,9 @@ I try to keep this repo up to date.
 
 ## Notes
 
-This repository is _kinda_ big at around >1.39 GBs. (checked at Dec 28, 2023)
+This repository is _kinda_ big at around >1.53 GBs (checked on April 28, 2024), therefore I recommend you browse to find only the wallpapers you like instead of downloading everything at once.
 
-If you clone this repo with bad WiFi, start praying to god if there is one.
+If you clone this repo with bad WiFi, start praying to God if there is one.
 
 ## Installation
 
@@ -21,4 +21,4 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 
 ### Credits
 
-Huge majority of the wallpapers here I got from the r/unixporn Discord server: https://discord.gg/TnJ4h5K
+A huge majority of the wallpapers here I got from the [r/unixporn Discord server](https://discord.gg/unixporn)
