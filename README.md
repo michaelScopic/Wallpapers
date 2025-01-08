@@ -8,7 +8,7 @@ I try to keep this repo up to date.
 
 This repository is _kinda_ big at around >1.53 GBs (checked on April 28, 2024), therefore I recommend you browse to find only the wallpapers you like instead of downloading everything at once.
 
-If you clone this repo with bad WiFi, start praying to God if there is one.
+If you clone this repo with bad WiFi, start praying to God.
 
 ## Installation
 
