@@ -1,3 +1,7 @@
+# ARCHIVED - DEVELOPMENT CONTINUED ON CODEBERG
+
+https://codeberg.org/michaelScopic/Wallpapers
+
 # Wallpapers
 
 These are all the wallpapers I have collected.
